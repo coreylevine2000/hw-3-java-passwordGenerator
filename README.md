@@ -16,4 +16,4 @@ If no character selection, nor length falls outside of length perameters, user w
 
 Links:
 GIT: https://github.com/coreylevine2000/hw-3-java-passwordGenerator
-LIVE: 
+LIVE: https://coreylevine2000.github.io/hw-3-java-passwordGenerator/
